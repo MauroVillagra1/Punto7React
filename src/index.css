@@ -1,0 +1,24 @@
+/* Estilos personalizados */
+
+/* Estilo para el avatar del empleado */
+.empleado-avatar {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 5%;
+  }
+  
+  /* Estilo para la fila del empleado */
+  .empleado-row {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para la lista de empleados */
+  .empleado-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
